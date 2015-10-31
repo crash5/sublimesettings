@@ -1,0 +1,24 @@
+{
+	"auto_upgrade": false,
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"install_missing": false,
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"CopyWithLineNumbersReloaded",
+		"DocBlockr",
+		"HexViewer",
+		"Package Control",
+		"PlainTasks",
+		"RegReplace",
+		"SideBarEnhancements",
+		"StringEncode",
+		"Terminal",
+		"TodoReview",
+		"Trimmer"
+	],
+	"submit_usage": false
+}

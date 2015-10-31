@@ -1,0 +1,10 @@
+{
+    "patterns": {
+        "TODO": "TODO[\\s]*?:[\\s]*(?P<todo>.*)$",
+        "BUG": "BUG[\\s]*?:[\\s]*(?P<bug>.*)$",
+        "NOTE": "NOTE[\\s]*?:[\\s]*(?P<note>.*)$",
+        "FIXME": "FIX ?ME[\\s]*?:[\\s]*(?P<fixme>.*)$",
+        "CHANGED": "CHANGED[\\s]*?:[\\s]*(?P<changed>.*)$"
+    },
+    "render_header_date": "%Y. %m. %d. %H:%M"
+}

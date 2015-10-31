@@ -1,0 +1,6 @@
+[
+	{ "caption": "Wrap line at ruler: 50", "command": "wrap_lines", "args": { "width": 50 } },
+	{ "caption": "Wrap line at ruler: 72", "command": "wrap_lines", "args": { "width": 72 } },
+	{ "caption": "Wrap line at ruler: 80", "command": "wrap_lines", "args": { "width": 80 } },
+	{ "caption": "Wrap line at ruler: 120", "command": "wrap_lines", "args": { "width": 120 } },
+]

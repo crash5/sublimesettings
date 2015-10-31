@@ -1,0 +1,11 @@
+{
+    "font_size": 11,
+    "font_face": "dejavu sans mono",
+    "date_format": "(%Y-%m-%d %H:%M)",
+    "line_numbers": true,
+    "open_tasks_bullet": "[ ]",
+    "done_tasks_bullet": "[x]",
+    "cancelled_tasks_bullet": "[-]",
+    "tab_size": 2,
+    "before_tasks_bullet_margin": 2
+}

@@ -1,0 +1,20 @@
+[
+    {
+        "caption": "Reg Replace: ToDo to GitLab Issue",
+        "command": "reg_replace",
+        "args": {
+            "replacements":
+                [
+                    "gitlab_todo_bug",
+                    "gitlab_todo_critical",
+                    "gitlab_todo_question",
+                    "gitlab_todo_design",
+                    "gitlab_todo_documentation",
+                    "gitlab_todo_misspell",
+                    "gitlab_todo_checkbox",
+                    "gitlab_todo_done-clear",
+                    "gitlab_todo_cancelled-clear"
+                ]
+        }
+    }
+]

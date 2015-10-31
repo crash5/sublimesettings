@@ -1,0 +1,60 @@
+{
+    "replacements": {
+        // gitlab issue >
+        "gitlab_todo_bug": {
+            "find": "@bug",
+            "replace": ":bug:",
+            "greedy": true,
+            "case": false
+        },
+        "gitlab_todo_critical": {
+            "find": "@critical",
+            "replace": ":warning:",
+            "greedy": true,
+            "case": false
+        },
+        "gitlab_todo_question": {
+            "find": "@question",
+            "replace": ":question:",
+            "greedy": true,
+            "case": false
+        },
+        "gitlab_todo_design": {
+            "find": "@design",
+            "replace": ":art:",
+            "greedy": true,
+            "case": false
+        },
+        "gitlab_todo_documentation": {
+            "find": "@documentation",
+            "replace": ":books:",
+            "greedy": true,
+            "case": false
+        },
+        "gitlab_todo_misspell": {
+            "find": "@misspell",
+            "replace": ":pencil2:",
+            "greedy": true,
+            "case": false
+        },
+        "gitlab_todo_checkbox": {
+            "find": " \\[",
+            "replace": " - [",
+            "greedy": true,
+            "case": false
+        },
+        "gitlab_todo_done-clear": {
+            "find": " @done (.*)",
+            "replace": "",
+            "greedy": true,
+            "case": false
+        },
+        "gitlab_todo_cancelled-clear": {
+            "find": " @cancelled (.*)",
+            "replace": "",
+            "greedy": true,
+            "case": false
+        }
+        // < gitlab issue
+    }
+}
