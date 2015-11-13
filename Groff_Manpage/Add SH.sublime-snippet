@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+.SH $SELECTION$1
+$2
+]]></content>
+	<scope>text.groff</scope>
+</snippet>

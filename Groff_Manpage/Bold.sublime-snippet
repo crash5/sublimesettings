@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+\fB$SELECTION$1\fP
+]]></content>
+	<scope>text.groff</scope>
+</snippet>

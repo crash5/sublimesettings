@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+.RS 7
+$SELECTION$1
+.RE
+]]></content>
+	<scope>text.groff</scope>
+</snippet>
