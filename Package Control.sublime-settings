@@ -7,10 +7,12 @@
 	"install_missing": false,
 	"installed_packages":
 	[
+		"Alignment",
 		"BracketHighlighter",
 		"CopyWithLineNumbersReloaded",
 		"DocBlockr",
 		"HexViewer",
+		"Monokai Extended",
 		"Package Control",
 		"PlainTasks",
 		"RegReplace",

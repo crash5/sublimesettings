@@ -22,5 +22,7 @@
 	{ "keys": ["ctrl+shift+keypad2"], "command": "move_to_group", "args": { "group": 1 } },
 	{ "keys": ["ctrl+shift+keypad3"], "command": "move_to_group", "args": { "group": 2 } },
 	{ "keys": ["ctrl+shift+keypad4"], "command": "move_to_group", "args": { "group": 3 } },
-	{ "keys": ["ctrl+keypad0"], "command": "focus_side_bar" }
+	{ "keys": ["ctrl+keypad0"], "command": "focus_side_bar" },
+	{ "keys": ["ctrl+u"], "command": "lower_case" },
+	{ "keys": ["ctrl+shift+u"], "command": "upper_case" }
 ]
