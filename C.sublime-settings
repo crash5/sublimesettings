@@ -1,0 +1,19 @@
+{
+	"ensure_newline_at_eof_on_save": true,
+	"extensions":
+	[
+		"c",
+		"h",
+		"cpp",
+		"cxx",
+		"c++",
+		"h",
+		"hpp",
+		"hxx",
+		"h++",
+		"inl",
+		"ipp"
+	],
+	"translate_tabs_to_spaces": false,
+	"trim_trailing_white_space_on_save": true
+}
